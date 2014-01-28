@@ -1,0 +1,50 @@
+.image-label {
+    color: white;
+    font-size: 30px;
+
+    position: relative;
+    left: -50%;
+}
+
+.image-logo {
+    float: left;
+}
+
+.content {
+    padding: 30px;
+}
+
+.text-description {
+    font-size: 18px;
+    text-align: justify;
+}
+
+.block-center {
+    display: block;
+    text-align: center;
+}
+
+.image-label-block {
+    position: absolute;
+    top: 15px;
+    left: 50%;
+}
+
+body {
+    width: 960px;
+    margin: auto;
+    padding-top: 30px;
+}
+
+.label-upcoming {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.link-upcoming {
+    font-size: 20px;
+}
+
+.social-buttons {
+    margin-left: 10px;
+}
